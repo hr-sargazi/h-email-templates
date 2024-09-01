@@ -1,0 +1,21 @@
+/* Desktop view */
+@media (min-width: 769px)  {
+    .footer {
+        padding-top: 8px;
+    }
+    .footer p{
+        width: 100%;
+    }
+    .hasma-description{
+        text-align: left!important;
+    }
+    .main-box{
+        padding: 24px !important;
+    }
+    .hamsaa-icon-wrapper img{
+        width: 84px;
+        height: 84px;
+    }
+
+}
+

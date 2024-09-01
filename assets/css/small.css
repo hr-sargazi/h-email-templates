@@ -1,0 +1,28 @@
+
+
+/* Mobile view */
+@media (max-width: 768px) {
+    .container {
+        padding-right: 16px !important;
+        padding-left: 16px !important;
+        padding-top: 16px !important;
+    }
+
+    .footer{
+        flex-direction: column !important;
+        justify-content: center !important;
+        align-items: center !important;
+        padding-top: 16px !important;
+        gap: 8px !important;
+    }
+    .main-box{
+        padding: 16px !important;
+    }
+
+    .hamsaa-icon-wrapper img{
+        width: 58px;
+        height: 58px;
+    }
+
+
+}
